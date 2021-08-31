@@ -24,8 +24,11 @@ class ChipCategory extends StatelessWidget {
               fontSize: 18
             ),)
         ),
+        
       ),
       );
+
+      
 
   }
 }
